@@ -1,5 +1,5 @@
 # The Discount Paradox
- **App Link**: https://management-of-salesamazon-glxkwsvyu8i4xogylaexv6.streamlit.app/
+ **App Link**: [https://the-discount-paradox-bd94lbeirdn43xzj2tav6e.streamlit.app/]
 
 ## Dataset and Decision Maker 
 
